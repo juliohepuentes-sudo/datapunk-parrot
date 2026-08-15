@@ -1,0 +1,9 @@
+# Sensitive and system files
+*.key
+*.ovpn
+*.pem
+.env
+.bash_history
+.zsh_history
+__pycache__/
+*.swp
